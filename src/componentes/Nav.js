@@ -12,10 +12,10 @@ const Nav=()=>{
               <div className="container__nav">
                   <nav id="nav">
                       <ul>
-                          <li><a href="#" className="select">HOME</a></li>
-                          <li><a href="#">ABOUT US</a></li>
-                          <li><a href="#">HOW IT WORK</a></li>
-                          <li><a href="#">CONTACT US</a></li>
+                          <li><a href="#" className="select">Home</a></li>
+                          <li><a href="#">About us</a></li>
+                          <li><a href="#">How it works</a></li>
+                          <li><a href="#">Contact us</a></li>
                       </ul>
                   </nav>
                   <div className="btn__menu" id="btn_menu"><i className="fas fa-bars"></i></div>
